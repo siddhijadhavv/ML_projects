@@ -2,7 +2,6 @@
 
 The dataset is based on customer data at a Supermarket. The dataset and its description are as follows:
 •	ID - Unique identifier of each customer
-
 •	Sex – 0:male, 1:female
 •	Marital status - 0: single, 1: non-single
 •	Age – Age in years
