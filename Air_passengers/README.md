@@ -1,4 +1,4 @@
-## Determine the number of passengers travelling at different time using Hidden Markov Model (HMM)
+## Determine the number of passengers travelling by different flights using Hidden Markov Model (HMM)
 
 The dataset is based on passengers that travelled for different time. The dataset and its description are as follows:
 Month: Year and month of travel
